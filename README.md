@@ -1,12 +1,12 @@
 # Synonym finder React using Datamuse API 
 
-## Type your word and fine synonym
+Type your word and find synonym
 
-### This app includes
+### What i have learnt
     * First time using Vite 
     * Custom hooks
     * API fetch
-    * Folder structure
+
 
 App preview:
 
